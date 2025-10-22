@@ -1,6 +1,6 @@
 # 💎 Contributing Guidelines
 
-Welcome to the **HTML & CSS Learning Repository**!
+Welcome to the **HTML-CSS_showcase Repository**!
 This repository contains my **personal practice projects**, including admission forms, solar system layouts, and UI card designs.
 The purpose of this repo is **learning, improving, and refining** existing code — not adding new features or external content.
 
