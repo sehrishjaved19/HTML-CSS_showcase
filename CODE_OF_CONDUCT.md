@@ -1,6 +1,6 @@
 ## 💎 Code of Conduct
 
-Welcome to the **HTML & CSS Repository**!  
+Welcome to the **HTML-CSS_showcase Repository**!  
 We’re building a space that encourages **learning, respect, and collaboration**.  
 This Code of Conduct outlines expectations for everyone participating in this project to maintain a positive, inclusive, and professional environment.
 
