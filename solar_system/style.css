@@ -1,0 +1,28 @@
+table,th,td {
+    border:1px solid black;
+    margin:4px;
+}
+body{
+    background-color:wheat;
+}
+h1{
+    font-family: Cursive;
+    font-size:70px;
+    color:rgb(139,0,0);
+}
+img{
+    height: 250px;
+    width: 700px;
+}
+h2{
+    text-decoration: underline;
+}
+table{
+    border: 2px solid black
+}
+#table_head{
+    background-color: yellowgreen;
+}
+td, th {
+    padding: 2px;
+}

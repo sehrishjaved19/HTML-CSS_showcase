@@ -1,0 +1,81 @@
+body { 
+    box-sizing: border-box;
+    margin:auto 20vw;
+    background-color: #fdfdfd;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #333;
+   padding-top: 5%;
+   font-size:300%;
+}
+fieldset {
+  border: 2px solid #3498db;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+legend.main {
+  padding: 8px 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #3498db;
+  border-radius: 5px;
+}
+
+legend {
+  color: #2c3e50;
+  font-weight: bold;
+}
+section {
+    margin:4vw;
+}
+
+input[type="text"],
+input[type="radio"],
+input[type="date"],
+input[type="number"],
+input[type="tel"],
+input[type="email"]
+{
+    background-color:white;
+    border-color:  rgba(52,152,219,0.4);          
+}
+select {
+    margin: 1vw;
+    background-color:white;
+    border-color: #3498db;
+    padding-bottom: 1vw;
+}
+div {
+    margin: 2vw 0;
+}
+textarea {
+    background-color:white;
+    border-color:#3498db;
+}
+input[type="submit"]
+{
+    color:white;
+    font-weight: bold;
+    background-color:#3498db;
+    font-size: initial;
+    border-radius: 3em;
+    margin:1em;
+    padding: 1vw 15vw;
+    text-align: center;
+    cursor: pointer;
+}
+.button{
+    text-align: center;
+    align-content: center;
+}
+input[type="submit"]:hover
+{
+    background-color:white;
+    color:#3498db;
+    border-color:#3498db;
+}      

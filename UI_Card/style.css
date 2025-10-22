@@ -1,0 +1,87 @@
+
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color:#dcefff; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card {
+    background-color:white;
+    height: 420px;
+    width:274px;
+    border-radius:7px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 6px 16px rgba(16, 127, 201, 0.25);
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+img {
+    width:244px;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.content{
+    font-size: 12px;
+}
+.content p {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 10px 15px;
+    color: rgb(65, 60, 60);
+}
+.capsule{
+    display: flex;
+    justify-content: center;
+}
+.capsule span {
+    border:1px solid #266ba3;
+    border-radius: 8px;
+    padding: 3px;
+    color: #266ba3;
+    font-size: 15px;
+    margin: 4px;
+}
+h1 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin : 15px 0px 0px 15px;
+    font-size: medium;    
+}
+.button{
+    text-align: center;
+    margin:12px;
+}
+button{
+    padding: 7px 9px;
+    color: rgb(2, 2, 80);
+    font-weight: bold;
+    border-radius: 13px;
+    font-size: 11px;
+    background-color:rgb(153, 201, 248);
+    border:none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(120, 180, 240);
+}
