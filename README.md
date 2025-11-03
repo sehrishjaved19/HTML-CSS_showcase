@@ -1,74 +1,89 @@
-# HTML-CSS_showcase
+# 🌸 HTML & CSS Showcase
 
-A collection of **HTML and CSS practice projects** created to strengthen foundational web development skills.
+A curated collection of **HTML and CSS mini projects** built to strengthen core frontend development skills through hands-on practice.
 
 ---
 
 ## 📘 Overview
 
-This repository contains **small, hands-on exercises** designed to reinforce understanding of HTML structure and CSS styling.
-Each folder includes an independent script or mini-project, allowing for focused practice of specific concepts and techniques.
+This repository contains a series of **beginner-friendly, focused exercises** designed to build a strong foundation in **HTML structure**, **CSS styling**, and **layout fundamentals**.
+Each folder includes an independent mini project demonstrating specific concepts and techniques.
 
-The primary goal of this repository is **learning through practice**, rather than creating full-fledged projects or responsive layouts.
+The main goal of this repository is **learning by doing** — exploring HTML and CSS features through small, practical builds rather than full-scale responsive websites.
 
 ---
 
 ## 📂 Repository Structure
 
-Each folder corresponds to a separate practice project or concept, for example:
+Each folder represents a separate practice project:
 
-* `Addmission_From/` → A practice form exploring different input types and form elements.
-* `UI_Card/` → A simple card layout to experiment with styling and box properties.
-* `solar_system/` → A creative exercise testing positioning and background styling.
+| Folder Name                            | Description                                                                          |
+| -------------------------------------- | ------------------------------------------------------------------------------------ |
+| `Project1_Admission_Form/`             | A styled form demonstrating input fields, labels, and form submission structure.     |
+| `Project2_Solar_System/`               | A creative static layout showcasing planets using CSS design and positioning.        |
+| `Project3_Simple_Interest_Calculator/` | A calculator layout for practicing structure, alignment, and input elements.         |
+| `Project4_UI_Card/`                    | A modern profile card built to experiment with borders, shadows, and layout styling. |
 
-To view any example, open the corresponding `.html` file in a web browser. Each project runs independently.
+To view any project, simply open its **index.html** file in a web browser.
+Each folder is self-contained and independent.
 
 ---
 
 ## 🎯 Purpose
 
-* To **track personal learning progress** in HTML and CSS.
-* To maintain a structured collection of **practice scripts**.
-* To provide a reference of experiments and exercises for future learning and revision.
+* To **track personal progress** during HTML & CSS learning.
+* To build a structured collection of **practice-based mini projects**.
+* To serve as a **reference library** for future revision and web development experiments.
 
 ---
 
-## 🖥️ How to Use
+## 🚀 How to View Projects
 
-1. Clone or download the repository:
+### 🔗 Live on GitHub Pages
+
+You can explore all projects through this homepage:
+👉 [HTML & CSS Showcase](https://sehrishjaved19.github.io/HTML-CSS_showcase/)
+
+Or directly access individual projects, for example:
+
+* `/Project1_Admission_Form/`
+* `/Project2_Solar_System/`
+* `/Project3_Simple_Interest_Calculator/`
+* `/Project4_UI_Card/`
+
+### 🖥️ Local Setup
+
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/sehrishjaved19/HTML-CSS_showcase.git
    ```
-2. Navigate to the desired folder, for example:
+2. Open any folder:
 
    ```bash
-   cd HTML-CSS_showcase/UI_Card
+   cd HTML-CSS_showcase/Project1_Admission_Form
    ```
-3. Open the `.html` file in a web browser to view the result.
-
-Each project is **standalone**, requiring no additional dependencies.
+3. Run the `.html` file in your browser.
 
 ---
 
-## 📝 Notes
+## 🧠 Notes
 
-* These are **practice exercises**, not complete projects.
-* The repository may contain experiments, test files, and early-stage code.
-* All work was created during the learning phase of HTML and CSS fundamentals.
+* These are **practice projects**, not production-ready designs.
+* Some files may include early experiments or test layouts.
+* All content was created while learning HTML and CSS fundamentals.
 
 ---
 
 ## 📜 License
 
-This repository is licensed under the **MIT License**.
-You are welcome to reference the code for learning purposes. Please provide credit if sharing publicly.
+Licensed under the **MIT License** — feel free to use this code for learning and personal practice.
+Please credit the author if shared publicly.
 
 ---
 
-## ✏️ Author
+## ✨ Author
 
 **Sehrish Javed**
-
-* GitHub: [@sehrishjaved19](https://github.com/sehrishjaved19)
-* LinkedIn: [Sehrish Javed](https://www.linkedin.com/in/sehrish-javed-119abc)
+🎓 IBM Full Stack JavaScript Developer (in progress)
+🌐 [GitHub](https://github.com/sehrishjaved19) | [LinkedIn](https://www.linkedin.com/in/sehrish-javed-119abc)
